@@ -1,0 +1,789 @@
+{
+  "brand": {
+    "companyNameAr": "شركة أساس للذكاء الاصطناعي",
+    "companyNameEn": "ASAAS AI Enterprise",
+    "taglineAr": "منظومة التواصل المؤسسي الذكي وإدارة المراسلات الرسمية",
+    "taglineEn": "AI-Powered Enterprise Communications Platform",
+    "logoUrl": "/logo-dark.png",
+    "logoDarkUrl": "/logo-light.png",
+    "primaryColor": "#ba9555",
+    "secondaryColor": "#221f1f",
+    "accentColor": "#d3c6b4",
+    "backgroundColor": "#fcf9f5",
+    "fontHeading": "Thmanyah Serif Display",
+    "fontBody": "Thmanyah Sans",
+    "website": "https://ai-asaas.com",
+    "phone": "+966 11 400 8899",
+    "addressAr": "طريق الملك فهد، برج أساس للأعمال، الطابق 18، الرياض، المملكة العربية السعودية",
+    "addressEn": "King Fahd Road, Asaas Business Tower, 18th Floor, Riyadh, Saudi Arabia",
+    "supportEmail": "comms@ai-asaas.com",
+    "officialSignature": {
+      "signerNameAr": "م. أيوب العبدالله",
+      "signerNameEn": "Eng. Ayoub Al-Abdullah",
+      "signerTitleAr": "نائب الرئيس للعمليات الرقمية والذكاء الاصطناعي",
+      "signerTitleEn": "VP of Digital Operations & AI",
+      "departmentAr": "الإدارة التنفيذية والتحول الرقمي",
+      "departmentEn": "Executive Office & Digital Transformation",
+      "disclaimerAr": "تنبيه سرية: هذه الرسالة ومرفقاتها ذات طابع سري ومخصصة حصرياً للمستلم الموجه إليه من منسوبي الشركة. يُمنع تداولها أو إعادة إرسالها دون إذن مسبق.",
+      "disclaimerEn": "Confidentiality Notice: This communication is confidential and intended solely for the designated recipient within ASAAS AI Enterprise. Any unauthorized disclosure is strictly prohibited."
+    },
+    "emailHeaderBanner": true,
+    "emailFooterNote": "تم إنشاء هذه الرسالة وإرسالها عبر المنصة الداخلية الذكية لشركة أساس للذكاء الاصطناعي."
+  },
+  "members": [
+    {
+      "id": "mem-1",
+      "name": "م. أيوب العبدالله",
+      "nameEn": "Eng. Ayoub Al-Abdullah",
+      "email": "ayoub@ai-asaas.com",
+      "role": "admin",
+      "department": "الإدارة التنفيذية",
+      "initials": "أ ع",
+      "status": "active",
+      "phone": "+966 50 111 2233",
+      "titleAr": "نائب الرئيس للعمليات والذكاء الاصطناعي",
+      "titleEn": "VP of Operations & AI",
+      "joinedAt": "2024-01-15T08:00:00Z"
+    },
+    {
+      "id": "mem-2",
+      "name": "سارة الشمري",
+      "nameEn": "Sarah Al-Shammari",
+      "email": "sarah.s@ai-asaas.com",
+      "role": "manager",
+      "department": "إدارة المنتجات",
+      "initials": "س ش",
+      "status": "active",
+      "phone": "+966 55 222 3344",
+      "titleAr": "مديرة المنتجات الرقمية",
+      "titleEn": "Head of Digital Products",
+      "joinedAt": "2024-02-01T09:00:00Z"
+    },
+    {
+      "id": "mem-3",
+      "name": "فيصل القحطاني",
+      "nameEn": "Faisal Al-Qahtani",
+      "email": "faisal.q@ai-asaas.com",
+      "role": "member",
+      "department": "هندسة الذكاء الاصطناعي",
+      "initials": "ف ق",
+      "status": "active",
+      "phone": "+966 54 333 4455",
+      "titleAr": "كبير مهندسي نماذج الذكاء الاصطناعي",
+      "titleEn": "Lead AI Systems Architect",
+      "joinedAt": "2024-03-10T08:30:00Z"
+    },
+    {
+      "id": "mem-4",
+      "name": "نورة الدوسري",
+      "nameEn": "Noura Al-Dossary",
+      "email": "noura.d@ai-asaas.com",
+      "role": "manager",
+      "department": "الموارد البشرية والعمليات",
+      "initials": "ن د",
+      "status": "active",
+      "phone": "+966 56 444 5566",
+      "titleAr": "مديرة الموارد البشرية والتوظيف",
+      "titleEn": "Human Resources Director",
+      "joinedAt": "2024-01-20T08:00:00Z"
+    },
+    {
+      "id": "mem-5",
+      "name": "عمر السعيد",
+      "nameEn": "Omar Al-Saeed",
+      "email": "omar.s@ai-asaas.com",
+      "role": "member",
+      "department": "تطوير البرمجيات",
+      "initials": "ع س",
+      "status": "active",
+      "phone": "+966 53 555 6677",
+      "titleAr": "مهندس أول Full-Stack",
+      "titleEn": "Senior Full-Stack Engineer",
+      "joinedAt": "2024-04-05T09:15:00Z"
+    },
+    {
+      "id": "mem-6",
+      "name": "ريم المالكي",
+      "nameEn": "Reem Al-Malki",
+      "email": "reem.m@ai-asaas.com",
+      "role": "member",
+      "department": "الاتصال المؤسسي والتسويق",
+      "initials": "ر م",
+      "status": "active",
+      "phone": "+966 59 666 7788",
+      "titleAr": "أخصائية الاتصال المؤسسي والإعلام",
+      "titleEn": "Corporate Comms & Media Specialist",
+      "joinedAt": "2024-02-15T10:00:00Z"
+    },
+    {
+      "id": "mem-7",
+      "name": "خالد العتيبي",
+      "nameEn": "Khaled Al-Otaibi",
+      "email": "khaled.o@ai-asaas.com",
+      "role": "manager",
+      "department": "الإدارة المالية",
+      "initials": "خ ع",
+      "status": "active",
+      "phone": "+966 50 777 8899",
+      "titleAr": "المدير المالي التنفيذي",
+      "titleEn": "Chief Financial Officer (CFO)",
+      "joinedAt": "2024-01-10T08:00:00Z"
+    },
+    {
+      "id": "mem-8",
+      "name": "لما التميمي",
+      "nameEn": "Lama Al-Tamimi",
+      "email": "lama.t@ai-asaas.com",
+      "role": "member",
+      "department": "مكتب إدارة المشاريع (PMO)",
+      "initials": "ل ت",
+      "status": "active",
+      "phone": "+966 55 888 9900",
+      "titleAr": "مديرة مشاريع تقنية",
+      "titleEn": "Technical Project Manager",
+      "joinedAt": "2024-05-01T08:45:00Z"
+    },
+    {
+      "id": "mem-9",
+      "name": "تركي الغامدي",
+      "nameEn": "Turki Al-Ghamdi",
+      "email": "turki.g@ai-asaas.com",
+      "role": "admin",
+      "department": "الأمن السيبراني والامتثال",
+      "initials": "ت غ",
+      "status": "active",
+      "phone": "+966 54 999 0011",
+      "titleAr": "رئيس قسم الأمن السيبراني وحماية البيانات",
+      "titleEn": "Head of Cybersecurity & Compliance",
+      "joinedAt": "2024-02-20T08:00:00Z"
+    },
+    {
+      "id": "mem-10",
+      "name": "هدى الشهري",
+      "nameEn": "Huda Al-Shehri",
+      "email": "huda.s@ai-asaas.com",
+      "role": "member",
+      "department": "تصميم تجربة المستخدم",
+      "initials": "هـ ش",
+      "status": "active",
+      "phone": "+966 56 123 4567",
+      "titleAr": "مصممة واجهات وتجربة مستخدم أولى",
+      "titleEn": "Lead UI/UX Designer",
+      "joinedAt": "2024-03-01T09:30:00Z"
+    },
+    {
+      "id": "mem-11",
+      "name": "محمد الحربي",
+      "nameEn": "Mohammed Al-Harbi",
+      "email": "mohammed.h@ai-asaas.com",
+      "role": "member",
+      "department": "البنية التحتية والسحابية",
+      "initials": "م ح",
+      "status": "active",
+      "phone": "+966 53 234 5678",
+      "titleAr": "مهندس سحابي وعمليات DevOps",
+      "titleEn": "Cloud & DevOps Architect",
+      "joinedAt": "2024-04-18T08:15:00Z"
+    },
+    {
+      "id": "mem-12",
+      "name": "دينا الزهراني",
+      "nameEn": "Deena Al-Zahrani",
+      "email": "deena.z@ai-asaas.com",
+      "role": "member",
+      "department": "الدعم الإداري والمكتبي",
+      "initials": "د ز",
+      "status": "active",
+      "phone": "+966 59 345 6789",
+      "titleAr": "منسقة العمليات والمكتب التنفيذي",
+      "titleEn": "Executive Operations Coordinator",
+      "joinedAt": "2024-06-01T08:00:00Z"
+    },
+    {
+      "id": "mem-1793976717236",
+      "name": "د. ماجد السبيعي",
+      "nameEn": "د. ماجد السبيعي",
+      "email": "dr.majed.subaie@gmail.com",
+      "role": "member",
+      "department": "إدارة هندسة البيانات والذكاء الاصطناعي",
+      "initials": "د م",
+      "status": "active",
+      "titleAr": "عضو فريق معتمد",
+      "titleEn": "Verified Team Member",
+      "joinedAt": "2026-11-06T14:51:57.236Z",
+      "provider": "google"
+    },
+    {
+      "id": "mem-1793977331785",
+      "name": "م. أيوب العبدالله",
+      "nameEn": "م. أيوب العبدالله",
+      "email": "ayoub.alabdullah@gmail.com",
+      "role": "member",
+      "department": "الإدارة التنفيذية والذكاء الاصطناعي",
+      "initials": "م أ",
+      "status": "active",
+      "titleAr": "عضو فريق معتمد",
+      "titleEn": "Verified Team Member",
+      "joinedAt": "2026-11-06T15:02:11.785Z",
+      "provider": "google"
+    },
+    {
+      "id": "mem-1793977900608",
+      "name": "سارة الشمري",
+      "nameEn": "سارة الشمري",
+      "email": "sarah.alshammari@gmail.com",
+      "role": "member",
+      "department": "إدارة وتطوير المنتجات",
+      "initials": "س ا",
+      "status": "active",
+      "titleAr": "عضو فريق معتمد",
+      "titleEn": "Verified Team Member",
+      "joinedAt": "2026-11-06T15:11:40.608Z",
+      "provider": "google"
+    }
+  ],
+  "emails": [
+    {
+      "subject": "دعوة لاجتماع الفريق: مناقشة مستجدات العمل - يوم الأحد 10:00 صباحاً",
+      "headline": "دعوة رسمية لحضور اجتماع الفريق الدوري",
+      "templateId": "meeting_invitation",
+      "language": "ar",
+      "senderName": "م. أيوب العبدالله",
+      "senderEmail": "comms@ai-asaas.com",
+      "to": [
+        "all-team@ai-asaas.com"
+      ],
+      "cc": [],
+      "bcc": [],
+      "content": {
+        "subject": "دعوة لاجتماع الفريق: مناقشة مستجدات العمل - يوم الأحد 10:00 صباحاً",
+        "headline": "دعوة رسمية لحضور اجتماع الفريق الدوري",
+        "summary": "يسعدنا دعوتكم لحضور اجتماع الفريق المقرر لمراجعة سير العمل ومناقشة الأولويات والخطط القادمة لضمان المواءمة المستمرة بين كافة الإدارات.",
+        "templateId": "meeting_invitation",
+        "language": "ar",
+        "urgency": "normal",
+        "sections": [
+          {
+            "title": "تفاصيل الموعد والمكان",
+            "content": "بيانات انعقاد الاجتماع الرسمي",
+            "type": "key_value",
+            "data": {
+              "اليوم والتاريخ": "الأحد، الموافق 10 نوفمبر 2026",
+              "التوقيت": "10:00 ص - 11:00 ص (بتوقيت مكة المكرمة)",
+              "الموقع": "قاعة الاجتماعات الرئيسية (برج أساس) ورابط الاتصال المرئي",
+              "المنسق": "إدارة العمليات والتحول الرقمي"
+            }
+          },
+          {
+            "title": "جدول الأعمال الرئيسي",
+            "content": "المحاور الأساسية للنقاش",
+            "type": "bullet_list",
+            "data": [
+              "مراجعة الإنجازات المحققة خلال الأسبوع المنصرم ومناقشة مؤشرات الأداء.",
+              "استعراض خطة الإطلاق للمرحلة القادمة وجدول التسليم الزمني.",
+              "مناقشة التحديات التقنية واللوجستية وتوزيع أدوار الدعم.",
+              "فتح باب الأسئلة والمقترحات المفتوحة لكافة أعضاء الفريق."
+            ]
+          },
+          {
+            "title": "إرشادات التحضير المسبق",
+            "content": "يرجى من كافة الزملاء الحضور قبل الموعد بـ 5 دقائق، والتأكد من تحديث المهام على منصة المشاريع الداخلية قبل الاجتماع.",
+            "type": "callout"
+          }
+        ],
+        "callToAction": {
+          "text": "الانضمام للاجتماع الافتراضي عبر Teams",
+          "url": "https://teams.microsoft.com/l/meetup-join/asaas-comms",
+          "style": "primary"
+        }
+      },
+      "renderedHtml": "<!DOCTYPE html>\n<html lang=\"ar\" dir=\"rtl\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <title>دعوة لاجتماع الفريق: مناقشة مستجدات العمل - يوم الأحد 10:00 صباحاً</title>\n  <style type=\"text/css\">\n    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }\n    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }\n    img { -ms-interpolation-mode: bicubic; border: 0; outline: none; text-decoration: none; }\n    table { border-collapse: collapse !important; }\n    body { margin: 0 !important; padding: 0 !important; width: 100% !important; background-color: #fcf9f5; }\n    @media screen and (max-width: 620px) {\n      .email-container { width: 100% !important; max-width: 100% !important; border-radius: 0 !important; }\n      .email-content { padding: 20px 16px !important; }\n      .header-logo { height: 28px !important; }\n    }\n  </style>\n</head>\n<body style=\"margin: 0; padding: 24px 0; background-color: #fcf9f5; font-family: 'Thmanyah Sans', 'Cairo', 'Segoe UI', Tahoma, Arial, sans-serif; direction: rtl; text-align: right; color: #374151;\">\n  <!-- Outlook / MSO Wrapper -->\n  <center style=\"width: 100%; background-color: #fcf9f5;\">\n    <!--[if (gte mso 9)|(IE)]>\n    <table role=\"presentation\" width=\"640\" align=\"center\" style=\"width: 640px; margin: 0 auto;\">\n    <tr>\n    <td>\n    <![endif]-->\n    <div style=\"max-width: 640px; margin: 0 auto;\" class=\"email-container\">\n      <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background-color: #ffffff; border-radius: 12px; border: 1px solid rgba(34,31,31,0.08); box-shadow: 0 4px 18px rgba(34,31,31,0.04); overflow: hidden; margin: 0 auto;\">\n        \n        <!-- Top Branded Header -->\n        <tr>\n          <td style=\"background-color: #221f1f; padding: 18px 28px; border-bottom: 3px solid #ba9555;\">\n            <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">\n              <tr>\n                <td align=\"right\" style=\"vertical-align: middle;\">\n                  <img src=\"/logo-dark.png\" alt=\"شركة أساس للذكاء الاصطناعي\" height=\"32\" class=\"header-logo\" style=\"display: block; max-height: 34px; width: auto; object-fit: contain; filter: brightness(0) invert(1);\" />\n                </td>\n                <td align=\"left\" style=\"vertical-align: middle;\">\n                  <span style=\"font-family: 'Thmanyah Sans', 'Cairo', 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 11.5px; font-weight: 600; color: #d3c6b4; letter-spacing: 0.5px; text-transform: uppercase;\">\n                    شركة أساس للذكاء الاصطناعي\n                  </span>\n                </td>\n              </tr>\n            </table>\n          </td>\n        </tr>\n\n        <!-- Main Body -->\n        <tr>\n          <td style=\"padding: 32px 32px 24px 32px;\" class=\"email-content\">\n            \n            \n\n            <!-- Headline -->\n            <h1 style=\"font-family: 'Thmanyah Serif Display', 'Thmanyah Sans', 'Amiri', serif; font-size: 21px; font-weight: 700; color: #221f1f; margin: 0 0 14px 0; line-height: 1.35; text-align: right;\">\n              دعوة رسمية لحضور اجتماع الفريق الدوري\n            </h1>\n\n            <!-- Summary / Opening -->\n            \n              <div style=\"font-size: 15px; line-height: 1.65; color: #4b5563; margin-bottom: 22px; padding-bottom: 16px; border-bottom: 1px solid #f3f4f6; text-align: justify;\">\n                يسعدنا دعوتكم لحضور اجتماع الفريق المقرر لمراجعة سير العمل ومناقشة الأولويات والخطط القادمة لضمان المواءمة المستمرة بين كافة الإدارات.\n              </div>\n            \n\n            <!-- Template-specific visual header (e.g. Directive Seal, Calendar Card, Award laurel) -->\n            \n      <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin-bottom: 24px; background-color: #f8fafc; border-left: 4px solid #3b82f6; border-right: 4px solid #3b82f6; border-radius: 8px; padding: 16px 20px;\">\n        <tr>\n          <td align=\"right\">\n            <div style=\"font-size: 11px; font-weight: 700; color: #2563eb; text-transform: uppercase; margin-bottom: 4px;\">\n              📅 دعوة اجتماع رسمي\n            </div>\n            <div style=\"font-size: 13px; color: #475569;\">\n              يرجى تأكيد الحضور وإضافة الموعد إلى جدول أعمالكم\n            </div>\n          </td>\n        </tr>\n      </table>\n    \n\n            <!-- Structured Sections -->\n            \n          <div style=\"margin-bottom: 22px;\">\n            <h3 style=\"font-family: 'Thmanyah Serif Display', 'Thmanyah Sans', 'Amiri', serif; font-size: 16.5px; font-weight: 700; color: #221f1f; margin: 0 0 10px 0; padding-bottom: 6px; border-bottom: 1px solid #f1f5f9; text-align: right;\">\n                    تفاصيل الموعد والمكان\n                  </h3>\n            \n            <p style=\"margin: 0 0 12px 0; color: #374151; font-size: 14.5px; line-height: 1.6;\">بيانات انعقاد الاجتماع الرسمي</p>\n            <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"border: 1px solid #e5e7eb; border-radius: 8px; overflow: hidden; margin-bottom: 16px; border-collapse: collapse;\">\n              \n              <tr>\n                <td style=\"padding: 10px 14px; background-color: #f9fafb; font-weight: 700; font-size: 13.5px; color: #1f2937; border-bottom: 1px solid #e5e7eb; width: 34%;\" align=\"right\">\n                  اليوم والتاريخ\n                </td>\n                <td style=\"padding: 10px 14px; background-color: #ffffff; font-size: 14px; color: #374151; border-bottom: 1px solid #e5e7eb;\" align=\"right\">\n                  الأحد، الموافق 10 نوفمبر 2026\n                </td>\n              </tr>\n            \n              <tr>\n                <td style=\"padding: 10px 14px; background-color: #f9fafb; font-weight: 700; font-size: 13.5px; color: #1f2937; border-bottom: 1px solid #e5e7eb; width: 34%;\" align=\"right\">\n                  التوقيت\n                </td>\n                <td style=\"padding: 10px 14px; background-color: #ffffff; font-size: 14px; color: #374151; border-bottom: 1px solid #e5e7eb;\" align=\"right\">\n                  10:00 ص - 11:00 ص (بتوقيت مكة المكرمة)\n                </td>\n              </tr>\n            \n              <tr>\n                <td style=\"padding: 10px 14px; background-color: #f9fafb; font-weight: 700; font-size: 13.5px; color: #1f2937; border-bottom: 1px solid #e5e7eb; width: 34%;\" align=\"right\">\n                  الموقع\n                </td>\n                <td style=\"padding: 10px 14px; background-color: #ffffff; font-size: 14px; color: #374151; border-bottom: 1px solid #e5e7eb;\" align=\"right\">\n                  قاعة الاجتماعات الرئيسية (برج أساس) ورابط الاتصال المرئي\n                </td>\n              </tr>\n            \n              <tr>\n                <td style=\"padding: 10px 14px; background-color: #f9fafb; font-weight: 700; font-size: 13.5px; color: #1f2937; border-bottom: 1px solid #e5e7eb; width: 34%;\" align=\"right\">\n                  المنسق\n                </td>\n                <td style=\"padding: 10px 14px; background-color: #ffffff; font-size: 14px; color: #374151; border-bottom: 1px solid #e5e7eb;\" align=\"right\">\n                  إدارة العمليات والتحول الرقمي\n                </td>\n              </tr>\n            \n            </table>\n          \n          </div>\n        \n          <div style=\"margin-bottom: 22px;\">\n            <h3 style=\"font-family: 'Thmanyah Serif Display', 'Thmanyah Sans', 'Amiri', serif; font-size: 16.5px; font-weight: 700; color: #221f1f; margin: 0 0 10px 0; padding-bottom: 6px; border-bottom: 1px solid #f1f5f9; text-align: right;\">\n                    جدول الأعمال الرئيسي\n                  </h3>\n            \n            <p style=\"margin: 0 0 10px 0; color: #374151; font-size: 14.5px; line-height: 1.6;\">المحاور الأساسية للنقاش</p>\n            <ul style=\"margin: 0 0 16px 0; padding-inline-start: 22px; list-style-type: square; color: #ba9555;\">\n              \n              <li style=\"margin-bottom: 8px; color: #374151; font-size: 14.5px; line-height: 1.6;\">\n                مراجعة الإنجازات المحققة خلال الأسبوع المنصرم ومناقشة مؤشرات الأداء.\n              </li>\n              <li style=\"margin-bottom: 8px; color: #374151; font-size: 14.5px; line-height: 1.6;\">\n                استعراض خطة الإطلاق للمرحلة القادمة وجدول التسليم الزمني.\n              </li>\n              <li style=\"margin-bottom: 8px; color: #374151; font-size: 14.5px; line-height: 1.6;\">\n                مناقشة التحديات التقنية واللوجستية وتوزيع أدوار الدعم.\n              </li>\n              <li style=\"margin-bottom: 8px; color: #374151; font-size: 14.5px; line-height: 1.6;\">\n                فتح باب الأسئلة والمقترحات المفتوحة لكافة أعضاء الفريق.\n              </li>\n            </ul>\n          \n          </div>\n        \n          <div style=\"margin-bottom: 22px;\">\n            <h3 style=\"font-family: 'Thmanyah Serif Display', 'Thmanyah Sans', 'Amiri', serif; font-size: 16.5px; font-weight: 700; color: #221f1f; margin: 0 0 10px 0; padding-bottom: 6px; border-bottom: 1px solid #f1f5f9; text-align: right;\">\n                    إرشادات التحضير المسبق\n                  </h3>\n            \n            <div style=\"background-color: #f8fafc; border-right: 4px solid #ba9555; border-radius: 6px; padding: 14px 18px; margin: 16px 0; font-size: 14px; line-height: 1.6; color: #1e293b;\">\n              يرجى من كافة الزملاء الحضور قبل الموعد بـ 5 دقائق، والتأكد من تحديث المهام على منصة المشاريع الداخلية قبل الاجتماع.\n            </div>\n          \n          </div>\n        \n\n            <!-- Call to Action -->\n            \n      <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin: 28px 0 20px 0;\">\n        <tr>\n          <td align=\"right\">\n            <a href=\"https://teams.microsoft.com/l/meetup-join/asaas-comms\" target=\"_blank\" style=\"display: inline-block; background-color: #ba9555; color: #ffffff; font-family: 'Thmanyah Sans', 'Cairo', 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14.5px; font-weight: 600; text-decoration: none; padding: 12px 28px; border-radius: 8px; box-shadow: 0 2px 4px rgba(186,149,85,0.25); text-align: center;\">\n              الانضمام للاجتماع الافتراضي عبر Teams\n            </a>\n          </td>\n        </tr>\n      </table>\n    \n\n            <!-- Signature -->\n            \n    <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin-top: 36px; padding-top: 24px; border-top: 2px solid #f1f5f9;\">\n      <tr>\n        <td align=\"right\">\n          <div style=\"font-size: 13px; color: #64748b; margin-bottom: 4px;\">\n            مع أطيب التحيات والتقدير،\n          </div>\n          <div style=\"font-family: 'Thmanyah Serif Display', 'Thmanyah Sans', 'Amiri', serif; font-size: 16px; font-weight: 700; color: #221f1f; margin-bottom: 2px;\">\n            م. أيوب العبدالله\n          </div>\n          <div style=\"font-size: 13px; font-weight: 600; color: #ba9555; margin-bottom: 2px;\">\n            نائب الرئيس للعمليات الرقمية والذكاء الاصطناعي\n          </div>\n          <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n            الإدارة التنفيذية والتحول الرقمي • شركة أساس للذكاء الاصطناعي\n          </div>\n          <div style=\"font-size: 11.5px; color: #94a3b8;\">\n            📞 +966 11 400 8899 &nbsp;|&nbsp; 🌐 <a href=\"https://ai-asaas.com\" style=\"color: #ba9555; text-decoration: none;\">ai-asaas.com</a>\n          </div>\n        </td>\n      </tr>\n      <tr>\n        <td style=\"padding-top: 18px;\">\n          <div style=\"font-size: 10.5px; line-height: 1.5; color: #94a3b8; background-color: #f8fafc; padding: 10px 14px; border-radius: 6px; border: 1px dashed #e2e8f0; text-align: justify;\">\n            تنبيه سرية: هذه الرسالة ومرفقاتها ذات طابع سري ومخصصة حصرياً للمستلم الموجه إليه من منسوبي الشركة. يُمنع تداولها أو إعادة إرسالها دون إذن مسبق.\n          </div>\n        </td>\n      </tr>\n    </table>\n  \n\n          </td>\n        </tr>\n\n        <!-- Footer -->\n        <tr>\n          <td style=\"background-color: #f8fafc; padding: 20px 28px; border-top: 1px solid #edf2f7; text-align: center;\">\n            <p style=\"margin: 0 0 6px 0; font-size: 11.5px; color: #64748b;\">\n              تم إنشاء هذه الرسالة وإرسالها عبر المنصة الداخلية الذكية لشركة أساس للذكاء الاصطناعي.\n            </p>\n            <p style=\"margin: 0; font-size: 11px; color: #94a3b8;\">\n              طريق الملك فهد، برج أساس للأعمال، الطابق 18، الرياض، المملكة العربية السعودية • <a href=\"mailto:comms@ai-asaas.com\" style=\"color: #ba9555; text-decoration: none;\">comms@ai-asaas.com</a>\n            </p>\n          </td>\n        </tr>\n\n      </table>\n    </div>\n    <!--[if (gte mso 9)|(IE)]>\n    </td>\n    </tr>\n    </table>\n    <![endif]-->\n  </center>\n</body>\n</html>",
+      "status": "draft",
+      "id": "em-1793976154827",
+      "createdAt": "2026-11-06T14:42:34.827Z",
+      "updatedAt": "2026-11-06T14:42:34.827Z"
+    },
+    {
+      "subject": "تجربة إرسال بريد رسمي من المنصة",
+      "headline": "رسالة اعتماد تشغيلي",
+      "templateId": "announcement",
+      "language": "ar",
+      "senderName": "م. أيوب العبدالله",
+      "senderEmail": "ayoub@ai-asaas.com",
+      "to": [
+        "all-team@ai-asaas.com"
+      ],
+      "cc": [
+        "executive@ai-asaas.com"
+      ],
+      "bcc": [],
+      "content": {
+        "sections": [
+          {
+            "title": "بيانات الفحص",
+            "content": "تمت عملية الفحص بنجاح تام وفق المعايير المؤسسية.",
+            "type": "paragraph"
+          }
+        ],
+        "headline": "رسالة اعتماد تشغيلي",
+        "subject": "تجربة إرسال بريد رسمي من المنصة",
+        "templateId": "announcement",
+        "callToAction": {
+          "text": "توثيق الاستلام",
+          "url": "https://ai-asaas.com"
+        },
+        "language": "ar",
+        "summary": "تم إرسال هذا البريد للتحقق من كفاءة دورة العمل الكاملة للمنصة.",
+        "urgency": "normal"
+      },
+      "id": "em-1793975007607",
+      "renderedHtml": "<!DOCTYPE html>\n<html lang=\"ar\" dir=\"rtl\" xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <title>تجربة إرسال بريد رسمي من المنصة</title>\n  <style type=\"text/css\">\n    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }\n    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }\n    img { -ms-interpolation-mode: bicubic; border: 0; outline: none; text-decoration: none; }\n    table { border-collapse: collapse !important; }\n    body { margin: 0 !important; padding: 0 !important; width: 100% !important; background-color: #fcf9f5; }\n    @media screen and (max-width: 620px) {\n      .email-container { width: 100% !important; max-width: 100% !important; border-radius: 0 !important; }\n      .email-content { padding: 20px 16px !important; }\n      .header-logo { height: 28px !important; }\n    }\n  </style>\n</head>\n<body style=\"margin: 0; padding: 24px 0; background-color: #fcf9f5; font-family: 'Thmanyah Sans', 'Cairo', 'Segoe UI', Tahoma, Arial, sans-serif; direction: rtl; text-align: right; color: #374151;\">\n  <!-- Outlook / MSO Wrapper -->\n  <center style=\"width: 100%; background-color: #fcf9f5;\">\n    <!--[if (gte mso 9)|(IE)]>\n    <table role=\"presentation\" width=\"640\" align=\"center\" style=\"width: 640px; margin: 0 auto;\">\n    <tr>\n    <td>\n    <![endif]-->\n    <div style=\"max-width: 640px; margin: 0 auto;\" class=\"email-container\">\n      <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"background-color: #ffffff; border-radius: 12px; border: 1px solid rgba(34,31,31,0.08); box-shadow: 0 4px 18px rgba(34,31,31,0.04); overflow: hidden; margin: 0 auto;\">\n        \n        <!-- Top Branded Header -->\n        <tr>\n          <td style=\"background-color: #221f1f; padding: 18px 28px; border-bottom: 3px solid #ba9555;\">\n            <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">\n              <tr>\n                <td align=\"right\" style=\"vertical-align: middle;\">\n                  <img src=\"/logo-dark.png\" alt=\"شركة أساس للذكاء الاصطناعي\" height=\"32\" class=\"header-logo\" style=\"display: block; max-height: 34px; width: auto; object-fit: contain; filter: brightness(0) invert(1);\" />\n                </td>\n                <td align=\"left\" style=\"vertical-align: middle;\">\n                  <span style=\"font-family: 'Thmanyah Sans', 'Cairo', 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 11.5px; font-weight: 600; color: #d3c6b4; letter-spacing: 0.5px; text-transform: uppercase;\">\n                    شركة أساس للذكاء الاصطناعي\n                  </span>\n                </td>\n              </tr>\n            </table>\n          </td>\n        </tr>\n\n        <!-- Main Body -->\n        <tr>\n          <td style=\"padding: 32px 32px 24px 32px;\" class=\"email-content\">\n            \n            \n\n            <!-- Headline -->\n            <h1 style=\"font-family: 'Thmanyah Serif Display', 'Thmanyah Sans', 'Amiri', serif; font-size: 21px; font-weight: 700; color: #221f1f; margin: 0 0 14px 0; line-height: 1.35; text-align: right;\">\n              رسالة اعتماد تشغيلي\n            </h1>\n\n            <!-- Summary / Opening -->\n            \n              <div style=\"font-size: 15px; line-height: 1.65; color: #4b5563; margin-bottom: 22px; padding-bottom: 16px; border-bottom: 1px solid #f3f4f6; text-align: justify;\">\n                تم إرسال هذا البريد للتحقق من كفاءة دورة العمل الكاملة للمنصة.\n              </div>\n            \n\n            <!-- Template-specific visual header (e.g. Directive Seal, Calendar Card, Award laurel) -->\n            \n      <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin-bottom: 24px; background: linear-gradient(135deg, rgba(186,149,85,0.08) 0%, rgba(34,31,31,0.02) 100%); border: 1px solid #d3c6b4; border-radius: 12px; padding: 18px 24px;\">\n        <tr>\n          <td align=\"right\">\n            <div style=\"font-size: 11px; font-weight: 700; color: #ba9555; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 6px;\">\n              تعميم إداري رسمي معتمد\n            </div>\n            <div style=\"font-size: 14px; color: #221f1f; font-weight: 600;\">\n              شركة أساس للذكاء الاصطناعي | الإدارة العامة\n            </div>\n          </td>\n        </tr>\n      </table>\n    \n\n            <!-- Structured Sections -->\n            \n          <div style=\"margin-bottom: 22px;\">\n            <h3 style=\"font-family: 'Thmanyah Serif Display', 'Thmanyah Sans', 'Amiri', serif; font-size: 16.5px; font-weight: 700; color: #221f1f; margin: 0 0 10px 0; padding-bottom: 6px; border-bottom: 1px solid #f1f5f9; text-align: right;\">\n                    بيانات الفحص\n                  </h3>\n            \n            <p style=\"margin: 0 0 16px 0; color: #374151; font-size: 15px; line-height: 1.7; text-align: justify;\">\n              تمت عملية الفحص بنجاح تام وفق المعايير المؤسسية.\n            </p>\n          \n          </div>\n        \n\n            <!-- Call to Action -->\n            \n      <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin: 28px 0 20px 0;\">\n        <tr>\n          <td align=\"right\">\n            <a href=\"https://ai-asaas.com\" target=\"_blank\" style=\"display: inline-block; background-color: #ba9555; color: #ffffff; font-family: 'Thmanyah Sans', 'Cairo', 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14.5px; font-weight: 600; text-decoration: none; padding: 12px 28px; border-radius: 8px; box-shadow: 0 2px 4px rgba(186,149,85,0.25); text-align: center;\">\n              توثيق الاستلام\n            </a>\n          </td>\n        </tr>\n      </table>\n    \n\n            <!-- Signature -->\n            \n    <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"margin-top: 36px; padding-top: 24px; border-top: 2px solid #f1f5f9;\">\n      <tr>\n        <td align=\"right\">\n          <div style=\"font-size: 13px; color: #64748b; margin-bottom: 4px;\">\n            مع أطيب التحيات والتقدير،\n          </div>\n          <div style=\"font-family: 'Thmanyah Serif Display', 'Thmanyah Sans', 'Amiri', serif; font-size: 16px; font-weight: 700; color: #221f1f; margin-bottom: 2px;\">\n            م. أيوب العبدالله\n          </div>\n          <div style=\"font-size: 13px; font-weight: 600; color: #ba9555; margin-bottom: 2px;\">\n            نائب الرئيس للعمليات الرقمية والذكاء الاصطناعي\n          </div>\n          <div style=\"font-size: 12px; color: #64748b; margin-bottom: 8px;\">\n            الإدارة التنفيذية والتحول الرقمي • شركة أساس للذكاء الاصطناعي\n          </div>\n          <div style=\"font-size: 11.5px; color: #94a3b8;\">\n            📞 +966 11 400 8899 &nbsp;|&nbsp; 🌐 <a href=\"https://ai-asaas.com\" style=\"color: #ba9555; text-decoration: none;\">ai-asaas.com</a>\n          </div>\n        </td>\n      </tr>\n      <tr>\n        <td style=\"padding-top: 18px;\">\n          <div style=\"font-size: 10.5px; line-height: 1.5; color: #94a3b8; background-color: #f8fafc; padding: 10px 14px; border-radius: 6px; border: 1px dashed #e2e8f0; text-align: justify;\">\n            تنبيه سرية: هذه الرسالة ومرفقاتها ذات طابع سري ومخصصة حصرياً للمستلم الموجه إليه من منسوبي الشركة. يُمنع تداولها أو إعادة إرسالها دون إذن مسبق.\n          </div>\n        </td>\n      </tr>\n    </table>\n  \n\n          </td>\n        </tr>\n\n        <!-- Footer -->\n        <tr>\n          <td style=\"background-color: #f8fafc; padding: 20px 28px; border-top: 1px solid #edf2f7; text-align: center;\">\n            <p style=\"margin: 0 0 6px 0; font-size: 11.5px; color: #64748b;\">\n              تم إنشاء هذه الرسالة وإرسالها عبر المنصة الداخلية الذكية لشركة أساس للذكاء الاصطناعي.\n            </p>\n            <p style=\"margin: 0; font-size: 11px; color: #94a3b8;\">\n              طريق الملك فهد، برج أساس للأعمال، الطابق 18، الرياض، المملكة العربية السعودية • <a href=\"mailto:comms@ai-asaas.com\" style=\"color: #ba9555; text-decoration: none;\">comms@ai-asaas.com</a>\n            </p>\n          </td>\n        </tr>\n\n      </table>\n    </div>\n    <!--[if (gte mso 9)|(IE)]>\n    </td>\n    </tr>\n    </table>\n    <![endif]-->\n  </center>\n</body>\n</html>",
+      "status": "sent",
+      "sentAt": "2026-11-06T14:23:27.607Z",
+      "createdAt": "2026-11-06T14:23:27.607Z",
+      "updatedAt": "2026-11-06T14:23:27.607Z",
+      "provider": "test",
+      "providerResponse": {
+        "success": true,
+        "messageId": "sim-1793975008207-20rg07",
+        "provider": "test",
+        "timestamp": "2026-11-06T14:23:27.607Z"
+      }
+    },
+    {
+      "id": "em-101",
+      "subject": "تعميم إداري: إطلاق منظومة المراسلات الداخلية الذكية لشركة أساس",
+      "headline": "إطلاق منصة التواصل الداخلي المعتمدة رسمياً",
+      "templateId": "announcement",
+      "language": "ar",
+      "senderName": "م. أيوب العبدالله",
+      "senderEmail": "ayoub@ai-asaas.com",
+      "to": [
+        "all-team@ai-asaas.com"
+      ],
+      "cc": [
+        "executive@ai-asaas.com"
+      ],
+      "bcc": [],
+      "content": {
+        "subject": "تعميم إداري: إطلاق منظومة المراسلات الداخلية الذكية لشركة أساس",
+        "headline": "إطلاق منصة التواصل الداخلي المعتمدة رسمياً",
+        "summary": "يسر الإدارة التنفيذية إعلان بدء العمل رسمياً بمنظومة المراسلات الداخلية المدعومة بالذكاء الاصطناعي لتوحيد الهوية المؤسسية وتسريع التواصل.",
+        "templateId": "announcement",
+        "language": "ar",
+        "urgency": "high",
+        "sections": [
+          {
+            "title": "الأهداف الاستراتيجية للإطلاق",
+            "content": "تهدف المنصة إلى توحيد الهوية البصرية لجميع الخطابات والمراسلات الرسمية وتسهيل صياغة الرسائل عبر المساعد الذكي بما يعزز الاحترافية ويضمن سرعة التنسيق الداخلي بين مختلف الإدارات.",
+            "type": "paragraph"
+          },
+          {
+            "title": "التعليمات والتوجيهات",
+            "content": "يرجى من كافة الزملاء والمدراء استخدام المنصة لكافة المراسلات الرسمية والتعاميم ودعوات الاجتماعات.",
+            "type": "bullet_list",
+            "data": [
+              "الاعتماد الحصري على قوالب المنصة الموحدة بدءاً من مطلع هذا الأسبوع.",
+              "التأكد من مراجعة المستلمين الرسميين (To/CC) عبر دليل أعضاء الشركة.",
+              "تطبيق توقيع الهوية المعتمد المضمن تلقائياً دون تعديل يدوي."
+            ]
+          }
+        ],
+        "callToAction": {
+          "text": "دخول المنصة وتجربة إنشاء إيميل",
+          "url": "https://ai-asaas.com/comms",
+          "style": "primary"
+        }
+      },
+      "renderedHtml": "",
+      "status": "sent",
+      "sentAt": "2026-11-05T09:30:00Z",
+      "createdAt": "2026-11-05T09:20:00Z",
+      "updatedAt": "2026-11-05T09:30:00Z",
+      "provider": "test",
+      "providerResponse": {
+        "messageId": "msg-seed-101",
+        "status": "delivered",
+        "provider": "Simulation Engine"
+      }
+    },
+    {
+      "id": "em-102",
+      "subject": "دعوة لحضور ورشة عمل: استعراض مخرجات نماذج الذكاء الاصطناعي التوليدي",
+      "headline": "جلسة العمل الربعية لمراجعة النماذج التوليدية",
+      "templateId": "meeting_invitation",
+      "language": "ar",
+      "senderName": "فيصل القحطاني",
+      "senderEmail": "faisal.q@ai-asaas.com",
+      "to": [
+        "faisal.q@ai-asaas.com",
+        "sarah.s@ai-asaas.com",
+        "omar.s@ai-asaas.com"
+      ],
+      "cc": [
+        "ayoub@ai-asaas.com"
+      ],
+      "bcc": [],
+      "content": {
+        "subject": "دعوة لحضور ورشة عمل: استعراض مخرجات نماذج الذكاء الاصطناعي التوليدي",
+        "headline": "جلسة العمل الربعية لمراجعة النماذج التوليدية",
+        "summary": "ندعوكم لحضور الجلسة الفنية المفتوحة لمناقشة أداء نماذج المعالجة اللغوية ودقة استخراج القوالب البريدية.",
+        "templateId": "meeting_invitation",
+        "language": "ar",
+        "urgency": "normal",
+        "sections": [
+          {
+            "title": "تفاصيل الموعد والمكان",
+            "content": "الأحد القادم الساعة 10:00 صباحاً حتى 11:30 صباحاً | قاعة الابتكار وقناة Microsoft Teams",
+            "type": "key_value",
+            "data": {
+              "اليوم والتاريخ": "الأحد 10 نوفمبر 2026",
+              "التوقيت": "10:00 ص - 11:30 ص (بتوقيت مكة المكرمة)",
+              "الموقع": "قاعة الابتكار (الطابق 18) ورابط Teams الافتراضي"
+            }
+          },
+          {
+            "title": "جدول الأعمال الرئيسي",
+            "content": "نقاط النقاش في الجلسة",
+            "type": "bullet_list",
+            "data": [
+              "استعراض دقة تصنيف النوايا واختيار القوالب الذكية.",
+              "قياس سرعة المعالجة واستجابة نماذج التوليد.",
+              "مناقشة سيناريوهات التعديل اللغوي متعدد الجولات."
+            ]
+          }
+        ],
+        "callToAction": {
+          "text": "الانضمام للاجتماع الافتراضي عبر Teams",
+          "url": "https://teams.microsoft.com/l/meetup-join/asaas-ai-sync",
+          "style": "primary"
+        }
+      },
+      "renderedHtml": "",
+      "status": "sent",
+      "sentAt": "2026-11-05T14:15:00Z",
+      "createdAt": "2026-11-05T14:00:00Z",
+      "updatedAt": "2026-11-05T14:15:00Z",
+      "provider": "test",
+      "providerResponse": {
+        "messageId": "msg-seed-102",
+        "status": "delivered",
+        "provider": "Simulation Engine"
+      }
+    }
+  ],
+  "templates": [
+    {
+      "id": "announcement",
+      "slug": "official-announcement",
+      "category": "announcements",
+      "nameAr": "تعميم إداري رسمي",
+      "nameEn": "Official Announcement",
+      "descriptionAr": "للتعاميم الإدارية والقرارات التنظيمية وإعلانات الشركة العامة لكافة المنسوبين.",
+      "descriptionEn": "For corporate announcements, executive directives, and company-wide policies.",
+      "icon": "Megaphone",
+      "accentColor": "#ba9555",
+      "defaultSubjectAr": "تعميم إداري رقم [رقم]: [موضوع التعميم]",
+      "defaultSubjectEn": "Administrative Announcement: [Subject]",
+      "features": [
+        "شعار وهوية الشركة",
+        "شارة قرار رسمي",
+        "بنود تنظيمية مرقمة",
+        "اعتماد الإدارة التنفيذية"
+      ]
+    },
+    {
+      "id": "meeting_invitation",
+      "slug": "meeting-invitation",
+      "category": "meetings",
+      "nameAr": "دعوة اجتماع رسمي",
+      "nameEn": "Meeting Invitation",
+      "descriptionAr": "لدعوات اجتماعات مجلس الإدارة وفرق العمل مع جدول الأعمال والروابط والتوقيت.",
+      "descriptionEn": "Calendar invitation with agenda, dial-in/room details, and RSVP action.",
+      "icon": "Calendar",
+      "accentColor": "#3b82f6",
+      "defaultSubjectAr": "دعوة لحضور اجتماع: [موضوع الاجتماع] - [اليوم والتاريخ]",
+      "defaultSubjectEn": "Meeting Invitation: [Topic] - [Date/Time]",
+      "features": [
+        "بطاقة تقويم مخصصة",
+        "جدول أعمال الاجتماع",
+        "زر الانضمام المباشر",
+        "إرشادات التحضير المسبق"
+      ]
+    },
+    {
+      "id": "meeting_followup",
+      "slug": "meeting-followup",
+      "category": "meetings",
+      "nameAr": "محضر ومتابعة اجتماع",
+      "nameEn": "Meeting Follow-up & Minutes",
+      "descriptionAr": "لتلخيص القرارات المتخذة وتحديد قائمة المهام والمسؤولين والمواعيد النهائية.",
+      "descriptionEn": "Post-meeting summary, key decisions log, and action items ownership table.",
+      "icon": "ClipboardCheck",
+      "accentColor": "#10b981",
+      "defaultSubjectAr": "محضر اجتماع ومخرجات: [اسم الاجتماع] بتاريخ [التاريخ]",
+      "defaultSubjectEn": "Meeting Minutes & Action Items: [Topic] - [Date]",
+      "features": [
+        "ملخص النقاشات",
+        "جدول القرارات والمهام",
+        "تحديد المسؤول والموعد",
+        "مرفقات وروابط العمل"
+      ]
+    },
+    {
+      "id": "project_update",
+      "slug": "project-update",
+      "category": "projects",
+      "nameAr": "تحديث تقدم المشروع",
+      "nameEn": "Project Progress Update",
+      "descriptionAr": "لمشاركة مستجدات المشاريع ونسب الإنجاز والمراحل القادمة والتحديات.",
+      "descriptionEn": "Milestone tracking, completion percentage, key deliverables, and risks.",
+      "icon": "TrendingUp",
+      "accentColor": "#6366f1",
+      "defaultSubjectAr": "تقرير تقدم مشروع [اسم المشروع] - [الفترة الزمنية]",
+      "defaultSubjectEn": "Project Status Update: [Project Name] - [Period]",
+      "features": [
+        "شريط نسبة الإنجاز",
+        "المعالم المنجزة",
+        "الخطوات القادمة",
+        "التنبيه بالمخاطر"
+      ]
+    },
+    {
+      "id": "task_assignment",
+      "slug": "task-assignment",
+      "category": "projects",
+      "nameAr": "تكليف بمهام ومسؤوليات",
+      "nameEn": "Task Assignment",
+      "descriptionAr": "لتكليف الموظفين وفرق العمل بمهام محددة مع النطاق والموعد النهائي.",
+      "descriptionEn": "Formal assignment of deliverables, priorities, deadlines, and criteria.",
+      "icon": "CheckSquare",
+      "accentColor": "#8b5cf6",
+      "defaultSubjectAr": "تكليف بمهمة رسمية: [عنوان المهمة] - موعد التسليم [التاريخ]",
+      "defaultSubjectEn": "Task Assignment: [Task Title] - Due: [Date]",
+      "features": [
+        "شارة درجة الأولوية",
+        "تفاصيل النطاق والمخرجات",
+        "معايير القبول والاعتماد",
+        "روابط ملفات العمل"
+      ]
+    },
+    {
+      "id": "internal_notification",
+      "slug": "internal-notification",
+      "category": "announcements",
+      "nameAr": "إشعار إداري داخلي",
+      "nameEn": "Internal Notification",
+      "descriptionAr": "للتنبيهات السريعة ومواعيد العمل وإشعارات الأنظمة والإجراءات الإدارية.",
+      "descriptionEn": "Quick alerts, system maintenances, policy adjustments, and schedules.",
+      "icon": "Bell",
+      "accentColor": "#f59e0b",
+      "defaultSubjectAr": "إشعار إداري هـام: [موضوع الإشعار]",
+      "defaultSubjectEn": "Internal Notification: [Subject]",
+      "features": [
+        "صندوق تنبيه عالي الوضوح",
+        "الفئات المتأثرة",
+        "الإجراء المطلوب من الموظف",
+        "فترة السريان"
+      ]
+    },
+    {
+      "id": "employee_appreciation",
+      "slug": "employee-appreciation",
+      "category": "hr",
+      "nameAr": "شكر وتقدير لموظف/فريق",
+      "nameEn": "Employee Appreciation",
+      "descriptionAr": "للإشادة بإنجازات الزملاء والمتميزين والاحتفاء بالنجاحات الاستثنائية.",
+      "descriptionEn": "Recognize outstanding contributions, celebrate team milestones, and praise.",
+      "icon": "Award",
+      "accentColor": "#d97706",
+      "defaultSubjectAr": "شكر وتقدير: إشادة بجهود الزميل/ـة [الاسم] في [المناسبة/المشروع]",
+      "defaultSubjectEn": "Appreciation & Recognition: Celebrating [Name] for [Achievement]",
+      "features": [
+        "وسام ذهبي أنيق",
+        "تسليط الضوء على الإنجاز",
+        "اقتباس من القيادة",
+        "أثر المساهمة على الشركة"
+      ]
+    },
+    {
+      "id": "welcome_email",
+      "slug": "welcome-email",
+      "category": "hr",
+      "nameAr": "ترحيب بعضو جديد بالفريق",
+      "nameEn": "New Team Member Welcome",
+      "descriptionAr": "للترحيب بالمنضمين الجدد إلى الشركة وتعريف الفريق بخبراتهم وأدوارهم.",
+      "descriptionEn": "Warm onboarding greeting introducing new colleagues, roles, and contacts.",
+      "icon": "UserPlus",
+      "accentColor": "#0ea5e9",
+      "defaultSubjectAr": "أهلاً وسهلاً بك في العائلة! نرحب بالزميل/ـة [الاسم]",
+      "defaultSubjectEn": "Warm Welcome to the Team: Meet [Name]!",
+      "features": [
+        "بطاقة تعريفية بالعضو",
+        "المسمى الوظيفي والقسم",
+        "روابط بدء العمل والتهيئة",
+        "بيانات المرشد/المشرف"
+      ]
+    },
+    {
+      "id": "request_approval",
+      "slug": "request-approval",
+      "category": "approvals",
+      "nameAr": "طلب موافقة واعتماد رسمي",
+      "nameEn": "Formal Approval Request",
+      "descriptionAr": "لرفع طلبات الشراء والموازنات والإجازات والموافقات التنفيذية.",
+      "descriptionEn": "Formal request for sign-offs, expenditures, scope change, or resources.",
+      "icon": "FileCheck",
+      "accentColor": "#ef4444",
+      "defaultSubjectAr": "طلب اعتماد رسمي: [موضوع الطلب] - للمراجعة والموافقة",
+      "defaultSubjectEn": "Action Required: Formal Approval Request for [Subject]",
+      "features": [
+        "مبررات الطلب والتكلفة",
+        "وثائق ومرفقات المراجعة",
+        "أزرار اعتماد أو طلب تعديل",
+        "تاريخ الاستحقاق"
+      ]
+    },
+    {
+      "id": "weekly_report",
+      "slug": "weekly-report",
+      "category": "projects",
+      "nameAr": "التقرير الأسبوعي للإنجازات",
+      "nameEn": "Weekly Status Report",
+      "descriptionAr": "لمشاركة تقرير ملخص إنجازات الأسبوع ومؤشرات الأداء للأقسام والإدارة.",
+      "descriptionEn": "Weekly summary of highlights, metric KPIs, completed initiatives, and road ahead.",
+      "icon": "BarChart3",
+      "accentColor": "#14b8a6",
+      "defaultSubjectAr": "التقرير الأسبوعي لفريق [اسم القسم] - الأسبوع [رقم]",
+      "defaultSubjectEn": "Weekly Report: [Team Name] - Week of [Date]",
+      "features": [
+        "مصفوفة مؤشرات الأداء KPIs",
+        "أبرز إنجازات الأسبوع",
+        "المخاطر والعوائق إن وجدت",
+        "أولويات الأسبوع القادم"
+      ]
+    },
+    {
+      "id": "important_reminder",
+      "slug": "important-reminder",
+      "category": "announcements",
+      "nameAr": "تذكير عاجل وهام",
+      "nameEn": "Important Deadline Reminder",
+      "descriptionAr": "للتذكير بالمواعيد النهائية لتسليم المشاريع أو التقييمات أو إغلاق الفترات.",
+      "descriptionEn": "Urgent reminder on expiring deadlines, evaluations, or critical compliance.",
+      "icon": "AlertCircle",
+      "accentColor": "#dc2626",
+      "defaultSubjectAr": "تذكير هام وعاجل: موعد نهائي لاستكمال [الموضوع]",
+      "defaultSubjectEn": "Important Reminder: Final Deadline for [Subject]",
+      "features": [
+        "شارة العجلة القصوى",
+        "تاريخ ووقت الإغلاق الحاسم",
+        "الخطوات الفورية المطلوبة",
+        "عواقب التأخير"
+      ]
+    },
+    {
+      "id": "business_correspondence",
+      "slug": "business-correspondence",
+      "category": "general",
+      "nameAr": "مراسلة إدارية عامة",
+      "nameEn": "Executive Business Letter",
+      "descriptionAr": "للمخاطبات والرسائل الرسمية العامة المصاغة بأعلى درجات اللباقة والاحتراف.",
+      "descriptionEn": "Formal executive letterhead correspondence for general institutional affairs.",
+      "icon": "MailCheck",
+      "accentColor": "#475569",
+      "defaultSubjectAr": "مراسلة رسمية: [الموضوع الرئيسي]",
+      "defaultSubjectEn": "Official Correspondence: [Subject]",
+      "features": [
+        "ترويسة رسمية فاخرة",
+        "ديباجة افتتاحية وخاتمة بروتوكولية",
+        "فقرات واضحة ومرتبة",
+        "توقيع رسمي معتمد"
+      ]
+    },
+    {
+      "slug": "official-promotion-announcement",
+      "category": "custom",
+      "nameAr": "إشعار ترقية وظيفية رسمية",
+      "nameEn": "Official Promotion Announcement",
+      "descriptionAr": "للإعلان عن الترقيات والمستويات القيادية الجديدة للموظفين المتميزين",
+      "descriptionEn": "Official Promotion Announcement",
+      "icon": "Award",
+      "accentColor": "#7c3aed",
+      "defaultSubjectAr": "إشعار ترقية إدارية: نبارك للزميل/ـة [الاسم] الترقية إلى [المسمى]",
+      "defaultSubjectEn": "Promotion Directive: Congratulations to [Name] on Promotion",
+      "features": [
+        "شارة ترقية مميزة",
+        "اعتماد الإدارة التنفيذية",
+        "مباركة القيادة"
+      ],
+      "id": "tmpl-custom-1793976737883",
+      "isCustom": true,
+      "createdAt": "2026-11-06T14:52:17.883Z"
+    }
+  ],
+  "settings": {
+    "email": {
+      "activeProvider": "test",
+      "testMode": true,
+      "senderAddress": "internal-comms@ai-asaas.com",
+      "senderName": "ASAAS AI Corporate Comms"
+    },
+    "ai": {
+      "provider": "gemini",
+      "model": "gemini-2.5-flash",
+      "temperature": 0.2,
+      "customSystemPrompt": "You are the enterprise communications AI for ASAAS AI Enterprise. Always write dignified, crisp, highly professional corporate Arabic and English emails adhering strictly to company brand identity and tone."
+    }
+  },
+  "auditLogs": [
+    {
+      "id": "log-1793977900608",
+      "action": "MEMBER_GMAIL_AUTO_REGISTERED",
+      "userEmail": "sarah.alshammari@gmail.com",
+      "targetType": "AUTH",
+      "details": "سجل المستخدم سارة الشمري دخوله عبر Gmail (sarah.alshammari@gmail.com) وتم إدراجه تلقائياً في قائمة أعضاء المنصة.",
+      "timestamp": "2026-11-06T15:11:40.608Z"
+    },
+    {
+      "id": "log-1793977331785",
+      "action": "MEMBER_GMAIL_AUTO_REGISTERED",
+      "userEmail": "ayoub.alabdullah@gmail.com",
+      "targetType": "AUTH",
+      "details": "سجل المستخدم م. أيوب العبدالله دخوله عبر Gmail (ayoub.alabdullah@gmail.com) وتم إدراجه تلقائياً في قائمة أعضاء المنصة.",
+      "timestamp": "2026-11-06T15:02:11.785Z"
+    },
+    {
+      "id": "log-1793976737883",
+      "action": "TEMPLATE_CREATED",
+      "userEmail": "admin@ai-asaas.com",
+      "targetType": "TEMPLATE",
+      "details": "تم إنشاء قالب بريد جديد: \"إشعار ترقية وظيفية رسمية\" (Official Promotion Announcement) وإضافته لمكتبة القوالب.",
+      "timestamp": "2026-11-06T14:52:17.883Z"
+    },
+    {
+      "id": "log-1793976717237",
+      "action": "MEMBER_GMAIL_AUTO_REGISTERED",
+      "userEmail": "dr.majed.subaie@gmail.com",
+      "targetType": "AUTH",
+      "details": "سجل المستخدم د. ماجد السبيعي دخوله عبر Gmail (dr.majed.subaie@gmail.com) وتم إدراجه تلقائياً في قائمة أعضاء المنصة.",
+      "timestamp": "2026-11-06T14:51:57.237Z"
+    },
+    {
+      "id": "log-1793975008208",
+      "action": "EMAIL_SENT",
+      "userEmail": "ayoub@ai-asaas.com",
+      "targetType": "EMAIL",
+      "details": "Sent email \"تجربة إرسال بريد رسمي من المنصة\" to 1 primary recipients using template announcement",
+      "timestamp": "2026-11-06T14:23:28.208Z"
+    },
+    {
+      "id": "log-1",
+      "action": "PLATFORM_INITIALIZED",
+      "userEmail": "ayoub@ai-asaas.com",
+      "targetType": "SYSTEM",
+      "details": "Initialized ASAAS AI Internal Email Platform with 12 enterprise templates and 12 team members.",
+      "timestamp": "2026-11-05T08:00:00Z"
+    }
+  ]
+}

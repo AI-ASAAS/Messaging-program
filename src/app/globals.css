@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ───────── Typography: Thmanyah Typeface ───────── */
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/fonts/thmanyah/sans/thmanyahsans-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/fonts/thmanyah/sans/thmanyahsans-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/fonts/thmanyah/sans/thmanyahsans-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Sans';
+  src: url('/fonts/thmanyah/sans/thmanyahsans-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Serif Display';
+  src: url('/fonts/thmanyah/serif-display/thmanyahserifdisplay-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thmanyah Serif Text';
+  src: url('/fonts/thmanyah/serif-text/thmanyahseriftext-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ───────── Brand Tokens ───────── */
+:root {
+  --brand-ink: #221f1f;
+  --brand-gold: #ba9555;
+  --brand-gold-hover: #a88344;
+  --brand-sand: #d3c6b4;
+  --brand-clay: #c3ad8d;
+  --brand-cream: #ede7da;
+  --brand-paper: #fcf9f5;
+  --brand-surface: #ffffff;
+  --brand-border: #e8e2d5;
+
+  --font-sans: 'Thmanyah Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Thmanyah Serif Display', 'Thmanyah Sans', serif;
+  --font-text: 'Thmanyah Serif Text', 'Thmanyah Sans', serif;
+
+  --background: #f8f6f0;
+  --foreground: #221f1f;
+}
+
+.dark {
+  --brand-ink: #fcf9f5;
+  --brand-surface: #181515;
+  --brand-border: #2e2826;
+  --background: #110e0e;
+  --foreground: #fcf9f5;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--background);
+  color: var(--foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-display);
+}
+
+.font-text {
+  font-family: var(--font-text);
+}
+
+/* Glassmorphism custom styles */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(220, 210, 195, 0.45);
+  box-shadow: 0 4px 20px -2px rgba(34, 31, 31, 0.04);
+}
+
+.dark .glass-panel {
+  background: rgba(26, 22, 22, 0.78);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.4);
+}
+
+/* Smooth custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(186, 149, 85, 0.25);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(186, 149, 85, 0.45);
+}
